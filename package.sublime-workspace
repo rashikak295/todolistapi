@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hi",
+				"hist_2"
+			],
+			[
+				"nor",
+				"normalized_array"
+			],
+			[
+				"Chi",
+				"chi_square"
+			],
+			[
+				"his",
+				"histograms"
+			],
+			[
+				"hist",
+				"hist_2"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"cl",
+				"clone"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"m",
+				"mouseY"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"mo",
+				"mouseY"
+			],
+			[
+				"r",
+				"refPt"
+			],
+			[
+				"p",
+				"plot"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"a",
+				"align-content\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"Su",
+				"submit"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"w",
+				"wid"
+			],
+			[
+				"o",
+				"x_offset"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"new",
+				"new_image"
+			],
+			[
+				"I",
+				"ImgSet"
+			],
+			[
+				"n",
+				"np"
+			],
+			[
+				"thres",
+				"threshold"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"test",
+				"test_results"
+			],
+			[
+				"trainig",
+				"training_set"
+			],
+			[
+				"tra",
+				"training_set"
+			],
+			[
+				"traing",
+				"training_set"
+			],
+			[
+				"vald",
+				"validation"
+			],
+			[
+				"pre",
+				"predict"
+			],
+			[
+				"ne",
+				"new_test_set"
+			],
+			[
+				"hot",
+				"hotvec_test_data"
+			],
+			[
+				"ad",
+				"adversarial_dataset"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"g",
+				"Greys"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"Ou",
+				"output"
+			],
+			[
+				"K",
+				"Kneighbors"
+			],
+			[
+				"dies",
+				"distances"
+			],
+			[
+				"dis",
+				"distances"
+			],
+			[
+				"PRE",
+				"predict"
+			],
+			[
+				"tr",
+				"training_data"
+			],
+			[
+				"data",
+				"data_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rashika/Desktop/githublink",
+		"/private/var/folders/gm/h_yhtbjj2p3420pwhhw3fbfh0000gn/T/025bdfb8-62e3-4936-ab9b-c06fb3967901/home/u1/rkoul2/public_html/CS682/index.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW2/index.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW2/2.py",
+		"/Users/rashika/Downloads/cs682_hw2_2.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW2/1.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW2/untitled.py",
+		"/Users/rashika/Documents/Spring 2019/SWE 642/HW2/survey.html",
+		"/private/var/folders/gm/h_yhtbjj2p3420pwhhw3fbfh0000gn/T/3112a82d-f155-4988-a3f2-ad51e60b079a/home/u1/rkoul2/public_html/testaccess/survey.html",
+		"/Users/rashika/Documents/Spring 2019/SWE 642/HW2/cs.html",
+		"/Users/rashika/Documents/Spring 2019/SWE 642/HW2/style.css",
+		"/Users/rashika/Documents/Spring 2019/SWE 642/HW2/index.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-4.py",
+		"/Users/rashika/Documents/1.py",
+		"/Users/rashika/Documents/Spring 2019/SWE 642/HW1/index.html",
+		"/Users/rashika/Desktop/README",
+		"/Users/rashika/Desktop/SUPPLIER_PRODUCT.java",
+		"/Users/rashika/Desktop/extractor.java",
+		"/Users/rashika/Desktop/dataAccess.java",
+		"/Applications/eclipse/workspace/Javademo/src/com/gmu/databasedemo/servlet/DeletePost.java",
+		"/Applications/eclipse/workspace/Javademo/src/com/gmu/databasedemo/dao/DataAccess.java",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3gray.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3color.py",
+		"/Users/rashika/Downloads/hw1-4.py",
+		"/private/var/folders/gm/h_yhtbjj2p3420pwhhw3fbfh0000gn/T/d494f240-7bc9-41d1-9bfd-6ff4d29c1850/home/u1/rkoul2/public_html/CS682/hw1-4.py",
+		"/Users/rashika/Downloads/hw1-4-2.py",
+		"/private/var/folders/gm/h_yhtbjj2p3420pwhhw3fbfh0000gn/T/a559a246-3400-4d12-b6b6-13ca8e689808/home/u1/rkoul2/public_html/CS682/index.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/index.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-2.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3.py",
+		"/Users/rashika/Desktop/.htaccess",
+		"/Users/rashika/Desktop/users",
+		"/Users/rashika/Downloads/cs682.html",
+		"/Users/rashika/Downloads/index.html",
+		"/Users/rashika/Downloads/syllabus.html",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/gaussian.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/x.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3-1.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3-5.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3-4.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3-3.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/HW1/hw1-3-2.py",
+		"/Users/rashika/Desktop/hw1-3-1.py",
+		"/Users/rashika/Documents/Spring 2019/CS 682/hw1-2.py",
+		"/Users/rashika/Documents/hw1-2.py",
+		"/Users/rashika/Downloads/src/connection/connection.php",
+		"/Users/rashika/Downloads/GPSI(16,03,17)/GPSI16Mar/WebContent/studentLoginPage.jsp",
+		"/Users/rashika/Downloads/Adversarial_machine_learning-master/network/mnist_loader.py",
+		"/Users/rashika/miniconda3/pkgs/python-3.7.0-hc167b69_0/lib/python3.7/turtledemo/__init__.py",
+		"/Users/rashika/Documents/QueueTest.java",
+		"/Users/rashika/Documents/MainStack.java",
+		"/Users/rashika/Documents/Programs/reverse.py",
+		"/Users/rashika/Documents/Programs/compress.py",
+		"/Users/rashika/Documents/Programs/URLify.py",
+		"/Users/rashika/Documents/Programs/palinperm.py",
+		"/Users/rashika/Documents/Programs/oneaway.py",
+		"/Users/rashika/Documents/Programs/check_permutation.py",
+		"/Users/rashika/Documents/permutation.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/network/network.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/loader.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/trained_network.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/adversarial_dataset.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/network/mnist_loader.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/adversarial_trained_network.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/adv.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/accuracy.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/loader.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/trained_network.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Adversarial_machine_learning_FGSM/trained_using_SGD.pkl",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/network/network.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/knn.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/backup.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/network/mnist_loader.py",
+		"/Users/rashika/Documents/Fall 2018/CS 688/Project/x.py",
+		"/Users/rashika/Desktop/rolodex.txt",
+		"/Users/rashika/Desktop/dolica_gopisetty_main.py",
+		"/Users/rashika/Desktop/dolica_gopisetty_GUI.py",
+		"/Users/rashika/Desktop/dolica_gopisetty_Contact.py",
+		"/Users/rashika/Documents/Fall 2018/IT 209/LA9.PY"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 133.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
